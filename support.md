@@ -34,7 +34,7 @@ Try restarting the app first. If the problem persists, contact us using the info
 
 ## Contact Support
 
-Email: support@newborntracker.app
+Email: devarvin10@gmail.com
 Response time: 24-48 hours
 
 ## Report a Bug
@@ -45,8 +45,8 @@ Please include:
 - Description of the issue
 - Steps to reproduce
 
-Email: support@newborntracker.app
+Email: devarvin10@gmail.com
 
 ## Feature Requests
 
-We love hearing from our users! Send your feature requests to: support@newborntracker.app
+We love hearing from our users! Send your feature requests to: devarvin10@gmail.com

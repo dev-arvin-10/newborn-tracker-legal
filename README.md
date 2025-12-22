@@ -30,4 +30,4 @@ After hosting, update the URLs in `NewbornTracker/src/utils/subscriptionConstant
 
 ## Contact
 
-For questions about these documents, contact: support@newborntracker.app
+For questions about these documents, contact: devarvin10@gmail.com

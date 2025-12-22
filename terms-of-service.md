@@ -35,4 +35,4 @@ We may update these terms. Continued use of the app constitutes acceptance of up
 
 ## Contact
 
-For questions about these terms, contact: support@newborntracker.app
+For questions about these terms, contact: devarvin10@gmail.com

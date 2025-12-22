@@ -44,4 +44,4 @@ We may update this privacy policy. Changes will be posted on this page with an u
 
 ## Contact
 
-For questions about this privacy policy, contact: support@newborntracker.app
+For questions about this privacy policy, contact: devarvin10@gmail.com
