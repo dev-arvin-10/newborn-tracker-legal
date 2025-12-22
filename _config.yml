@@ -1,0 +1,26 @@
+# GitHub Pages configuration for Newborn Tracker legal documents
+title: Newborn Tracker - Legal Documents
+description: Privacy Policy, Terms of Service, and Support documentation for Newborn Tracker app
+theme: minima
+
+# Enable GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Site settings
+url: "https://yourusername.github.io"
+baseurl: "/newborn-tracker-legal"
+
+# Contact information
+email: support@newborntracker.app
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
